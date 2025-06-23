@@ -1,0 +1,2128 @@
+[
+    
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [38,56],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    },{
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "зима",
+        "name" : "Худи",
+        "brand" : "телодвижения",
+        "description" : "Утепленная толстовка на флисе, свободного кроя оверсайз, с длинным рукавом, объемным капюшоном и удобным карманом «кенгуру» – незаменимая, уже классическая повседневная вещь, которую можно сочетать с любой одеждой для создания стильных образов, а с нанесением рисунка «STAR» повседневность станет еще ярче и интереснее!",
+        "size" : [42,54],
+        "price" : "10500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-k/wc1000/7302860156.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6963732780.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-h/wc1000/6963732845.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/6963732824.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/6963732844.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "мужская",
+        "season" : "весна,осень",
+        "name" : "Свитшот",
+        "brand" : "Tommy Hilfiger",
+        "brandLogo" : "https://hub.flymart.uz/file/hub/file/2023/6/14/2RByhgvPetIRwB2N9jnZNvUmOA5.png",
+        "description" : "Свитшот Tommy Hilfiger - это идеальный выбор для мужчин, которые ценят качество и стиль. Этот свитшот изготовлен из органического хлопка и переработанного полиэстера, что обеспечивает комфорт и долговечность.",
+        "size" : [45,50],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7265789786.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-u/wc1000/6923349342.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/6923349354.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "худи",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7251373496.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7354958402.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7354958411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-y/wc1000/7354958434.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7354958450.jpg"
+                    ]
+    },
+    {
+        "category" : "одежда",
+        "floor" : "женская",
+        "season" : "весна,осень",
+        "name" : "худи",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "Эта худи изготовлена из комфортного и прочного материала - 80% хлопка и 20% полиэстера, что обеспечивает ей долгий срок службы и удобство носки. Объемная худи из флиса Phoenix Fleece с экстремальным спуском в плечах и дополнительным пространством по телу никогда не будет сковывать вас или стеснять движения.",
+        "size" : [43,46],
+        "price" : "9500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354869033.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7354868910.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7354868950.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-w/wc1000/7354868972.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7354868997.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "лето",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [35,45],
+        "price" : "15500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7475798379.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-l/wc1000/7475798397.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-c/wc1000/7475798388.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-z/wc1000/7475798411.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-d/wc1000/7475798389.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "мужские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [36,43],
+        "price" : "7500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-j/wc1000/7459105663.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105650.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-6/wc1000/7459105686.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/7459105698.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7459105654.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "весна,осень",
+        "name" : "кроссовки",
+        "brand" : "nike",
+        "brandLogo" : "https://assets.turbologo.ru/blog/ru/2021/06/03041520/nike-logo-1985.png",
+        "description" : "",
+        "size" : [38,40],
+        "price" : "20500",
+        "images" : [
+                    "https://ir-8.ozone.ru/s3/multimedia-1-3/wc1000/7115293767.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7115293814.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-a/wc1000/7115293810.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-t/wc1000/7115293793.jpg",
+                    "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7115293816.jpg"
+                    ]
+    },
+    {
+        "category" : "кроссовки",
+        "floor" : "женские",
+        "season" : "зима",
+        "name" : "кроссовки",
+        "brand" : "adidas",
+        "brandLogo" : "https://static.tildacdn.com/tild3138-6663-4136-b762-303463336563/adidas.jpg",
+        "description" : "",
+        "size" : [37,45],
+        "price" : "13500",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644598.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/7297644608.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7297644670.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7297644712.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7297644697.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "женская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "мужская",
+        "season" : "лето",
+        "name" : "Бейсболка",
+        "brand" : "Calvin Klein",
+        "brandLogo" : "https://static.vecteezy.com/system/resources/previews/023/400/603/non_2x/calvin-klein-brand-clothes-fashion-symbol-logo-design-illustration-with-black-background-free-vector.jpg",
+        "description" : "",
+        "size" : "универсальный",
+        "price" : "5500",
+        "images" : [
+                    "https://ir-3.ozone.ru/s3/multimedia-1-j/wc1000/7067071015.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-t/wc1000/7067071025.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-2/wc1000/7067071034.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-v/wc1000/7067071063.jpg",
+                    "https://ir-3.ozone.ru/s3/multimedia-1-8/wc1000/7067071076.jpg"
+                    ]
+    },
+    {
+        "category" : "аксессуары",
+        "floor" : "",
+        "season" : "лето",
+        "name" : "очки",
+        "brand" : "ray ban",
+        "brandLogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeVaX7vH7rPGB2eBYBrmy3_us3Djcx0yCfQ&s",
+        "description" : "",
+        "size" : "",
+        "price" : "10900",
+        "images" : [
+                    "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7444383755.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-o/wc1000/7444383756.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-2/wc1000/7444383770.jpg",
+                    "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7444383769.jpg"
+                    ]
+    }
+
+]

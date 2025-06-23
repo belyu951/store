@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+//импорт компонентов
+import NavHeader from './components/header/NavHeader';
+// import SliderSneakers from './components/componentSliderSneakers/SliderSneakers'
+import MainBody from './components/componentMainBody/MainBody'
+import Basket from './components/basket/Basket'
+import Like from './components/Likes/Likes'
+import MyOrders from './components/myOrders/MyOrders'
+
+import { Routes, Route } from 'react-router-dom';
+
+
+//импорт стилей
+import './resetStyles.css';
+import './conteiner.css';
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="conteiner">
+
+      <NavHeader/>
+
+      <Routes>
+        <Route path='/' element={<MainBody/>}/>
+        <Route path='/Basket' element={<Basket/>}/>
+        <Route path='/Like' element={<Like/>}/>
+        <Route path='/MyOrders' element={<MyOrders/>}/>
+      </Routes>
+      
     </div>
   );
 }

@@ -1,0 +1,119 @@
+.coruselImagesSneakers {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.corusel {
+  display: flex;
+  width: 400%;
+  gap: 5px;
+  transition: transform 0.5s ease-in-out;
+  //   transform: translateX(-50%);
+}
+
+.images {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20px;
+  height: 500px;
+  width: 100%;
+  border-radius: 20px;
+  position: relative;
+
+  &__sneakersImg {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  &__sneakersName {
+    font-weight: 600;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 30px;
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(to right, #c2c2c2, #000000);
+    position: relative;
+  }
+
+  &__sneakersDiscription {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 2.2vw;
+    // max-width: 1200px;
+    position: relative;
+  }
+}
+
+.sneakersDiscriptionCalvinKlein {
+  font-weight: 600;
+  text-align: center;
+  color: transparent;
+  background-clip: text;
+  background-image: linear-gradient(to right, #000000, #a0a0a0);
+  position: relative;
+}
+
+.sneakersNameNike {
+  color: transparent;
+  background-clip: text;
+  background-image: linear-gradient(to right, #ffffff, #6e96f5);
+}
+
+.sneakersDiscriptionNike {
+  font-weight: 600;
+  color: transparent;
+  background-clip: text;
+  background-image: linear-gradient(to right, #6e96f5, #444444);
+}
+
+
+
+.dontActive {
+  background-color: rgb(0, 0, 0);
+  width: 15px;
+  height: 15px;
+  border-radius: 50px;
+}
+
+.active {
+  background-color: #6e96f5;
+  width: 15px;
+  height: 15px;
+  border-radius: 50px;
+}
+
+.buttonSlideNav{
+    cursor: pointer;
+}
+
+
+.slideNavigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 0px 20px 0px 20px;
+
+  &__buttonPrev{
+
+  }
+
+  &__element{
+    display: flex;
+    gap: 5px;
+  }
+
+  
+  &__buttonNext{
+
+  }
+
+}

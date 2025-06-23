@@ -1,0 +1,26 @@
+.sliderTheBeast {
+  margin-top: 50px;
+}
+
+.theBeastLogo {
+  color: #000;
+  font-size: 40px;
+}
+
+.slider {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  @media (min-width: 1900px) {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+// @media (width > 1900px) {
+//   .siler {
+//     display: flex;
+//     justify-content: space-between;
+//   }
+// }
