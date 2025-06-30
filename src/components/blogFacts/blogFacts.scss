@@ -1,0 +1,122 @@
+.blogFacts {
+    margin-bottom: 100px;
+}
+.blogFactsName {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  color: #002c6a;
+}
+
+.blogFactsGrid{
+    margin-bottom: 50px;
+    display: flex
+;
+    justify-content: space-around;
+}
+.blogCarts {
+    margin-top: 37px;
+  display: flex;
+  gap: 15px;
+  max-width: 540px;
+  max-height: 170px;
+  box-shadow: 5px 20px 60px 0 rgba(22, 92, 191, 0.15);
+  background: #fff;
+  border-radius: 20px;
+}
+.blogCartsDivImages {
+  // .blogCartsDivImages__images
+
+  &__images {
+    max-width: 192px;
+    max-height: 170px;
+    border-radius: 20px 0px 0px 20px;
+  }
+}
+.blogCartsDivInformation {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  padding: 17px 48px 49px 0px;
+  // .blogCartsDivInformation__nameSneakers
+
+  &__nameSneakers {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #002c6a;
+  }
+
+  // .blogCartsDivInformation__descriptionSneakers
+
+  &__descriptionSneakers {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #29292d;
+  }
+}
+.subscribe-form {
+    width: 100%;
+    max-width: 540px;
+    margin: 0 auto;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    box-sizing: border-box;
+  
+    &__header {
+      background: linear-gradient(to bottom, #000, #333);
+      color: #fff;
+      font-weight: bold;
+      font-size: 18px;
+      padding: 16px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      line-height: 1.4;
+    }
+  
+    &__input {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      margin-bottom: 16px;
+      border: none;
+      border-bottom: 2px solid #ccc;
+      outline: none;
+      transition: border-color 0.3s;
+  
+      &:focus {
+        border-color: #000;
+      }
+    }
+  
+    &__button {
+      width: 100%;
+      padding: 12px;
+      background: linear-gradient(to right, #f22, #d00);
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+      border: none;
+      border-radius: 24px;
+      cursor: pointer;
+      transition: background 0.3s;
+  
+      &:hover {
+        background: linear-gradient(to right, #d00, #b00);
+      }
+    }
+  
+    &__privacy {
+      font-size: 12px;
+      color: #999;
+      margin-top: 12px;
+    }
+  }

@@ -4,6 +4,7 @@ import React from 'react'
 import SliderSneakers from '../componentSliderSneakers/SliderSneakers'
 import SliderTheBeast from '../componentSliderTheBeast/SliderTheBeast'
 import Guarantee from '../guarantee/Guarantee'
+import BlogFacts from '../blogFacts/BlogFacts'
 
 
 export const MainBody = () => {
@@ -12,6 +13,7 @@ export const MainBody = () => {
         <SliderSneakers/>
         <SliderTheBeast/>
         <Guarantee/>
+        <BlogFacts/>
     </div>
   )
 }
