@@ -1,14 +1,20 @@
-// features/products/productsSlice.js
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
+import { createSlice, createAsyncThunk, nanoid } from '@reduxjs/toolkit'
 
 // 🔄 Асинхронный thunk для получения товаров
 export const fetchProducts = createAsyncThunk(
   'products/fetchProducts',
   async (_, thunkAPI) => {
-    console.log('закрузка');
     try {
-      const response = await fetch('http://127.0.0.1:5500/shop-sneakers/src/dataProducts.json')
-      return await response.json()
+      const response = await fetch('http://127.0.0.1:5500/src/dataProducts.json')
+      const data = await response.json()
+
+      // 👇 Добавляем уникальный id каждому товару
+      const productsWithId = data.map(product => ({
+        ...product,
+        id: nanoid(),
+      }))
+
+      return productsWithId
     } catch (error) {
       return thunkAPI.rejectWithValue(error.message)
     }

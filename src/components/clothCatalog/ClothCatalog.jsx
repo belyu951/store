@@ -2,7 +2,7 @@ import React from 'react'
 
 function ClothCatalog() {
   return (
-    <div>ClothCatalog</div>
+    <div className='paddingTop'>ClothCatalog</div>
   )
 }
 

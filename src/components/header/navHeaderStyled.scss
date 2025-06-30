@@ -1,3 +1,13 @@
+.searchNavHeader1{
+  position: fixed;
+  top: 0;
+  left: 40px;
+  right: 42px;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 20px 20px;
+}
 .searchNavHeader {
   background-color: #fff;
   border-radius: 0px 0px 20px 20px;

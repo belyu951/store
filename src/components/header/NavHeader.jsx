@@ -1,15 +1,9 @@
 import React from "react";
 
 //импорт routerDom
-import { Routes, Route } from 'react-router-dom';
 import { Link } from 'react-router-dom'
 
 //импорт компонентов
-import SneakersCatalog from '../sneakersCatalog/SneakersCatalog'
-import ClothCatalog from '../clothCatalog/ClothCatalog'
-import AccessoriesCatalog from '../accessoriesCatalog/AccessoriesCatalog'
-import Blog from '../blog/Blog'
-import AboutUs from '../aboutUs/AboutUs'
 
 
 
@@ -22,10 +16,20 @@ import { FaSearch } from "react-icons/fa";
 import { FaBox } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
 import { FaShoppingBasket } from "react-icons/fa";
+import { useSelector } from "react-redux";
 
 export default function NavHeader() {
+
+
+const totalQuantity = useSelector(state =>
+  state.cart.items.reduce((sum, item) => sum + item.quantity, 0)
+)
+
+console.log(totalQuantity);
+
   return (
     <>
+    <div className="searchNavHeader1">
       <div className="searchNavHeader">
         <div className="search">
           <div className="searchCatalog">
@@ -50,13 +54,13 @@ export default function NavHeader() {
               <FaBox className="searchSave__svgBox" /> заказы
             </button></Link>
             <div className="quantity">
-              <span className="quantity__quan number">+3</span>
+              <span className="quantity__quan number">+0</span>
               <Link to='/Like'><button className="searchSave__like">
                 <FaHeart className="searchSave__svgLike" /> избранное
               </button></Link>
             </div>
             <div className="quantity">
-              <span className="quantity__quan">+3</span>
+              <span className="quantity__quan">{totalQuantity}</span>
               <Link to='/Basket'><button className="searchSave__basket">
                 <FaShoppingBasket className="searchSave__svgBasket" /> корзина
               </button></Link>
@@ -72,14 +76,7 @@ export default function NavHeader() {
           <Link to='/AboutUs' className="namee"><button className="catalog__catalogSearch name">О нас</button></Link>
         </div>
       </div>
-
-      <Routes>
-        <Route path='/SneakersCatalog' element={<SneakersCatalog/>}/>
-        <Route path='/ClothCatalog' element={<ClothCatalog/>}/>
-        <Route path='/AccessoriesCatalog' element={<AccessoriesCatalog/>}/>
-        <Route path='/Blog' element={<Blog/>}/>
-        <Route path='/AboutUs' element={<AboutUs/>}/>
-      </Routes>
+      </div>
     </>
   );
 }

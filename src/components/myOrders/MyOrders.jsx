@@ -1,8 +1,9 @@
 import React from 'react'
 
+
 function MyOrders() {
   return (
-    <div>MyOrders</div>
+    <div className='paddingTop'>MyOrders</div>
   )
 }
 

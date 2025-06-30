@@ -2,7 +2,7 @@ import React from 'react'
 
 function AccessoriesCatalog() {
   return (
-    <div>AccessoriesCatalog</div>
+    <div className='paddingTop'>AccessoriesCatalog</div>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Likes() {
   return (
-    <div>Likes</div>
+    <div className='paddingTop'>Likes</div>
   )
 }
 
