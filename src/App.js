@@ -21,8 +21,7 @@ import './conteiner.css';
 function App() {
   
   return (
-    <div className="conteiner">
-
+    <>
       <NavHeader/>
 
       <Routes>
@@ -37,7 +36,7 @@ function App() {
         <Route path='/AboutUs' element={<AboutUs/>}/>
       </Routes>
       
-    </div>
+    </>
   );
 }
 

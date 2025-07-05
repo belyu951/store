@@ -1,5 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
+
+//import стилей
 import './sliderBrand.scss'
 
 function SliderBrand() {
