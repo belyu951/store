@@ -25,7 +25,6 @@ const totalQuantity = useSelector(state =>
   state.cart.items.reduce((sum, item) => sum + item.quantity, 0)
 )
 
-console.log(totalQuantity);
 
   return (
     <>
@@ -60,7 +59,7 @@ console.log(totalQuantity);
               </button></Link>
             </div>
             <div className="quantity">
-              <span className="quantity__quan">{totalQuantity}</span>
+              <span className="quantity__quan">{totalQuantity === 0 ? null : totalQuantity}</span>
               <Link to='/Basket'><button className="searchSave__basket">
                 <FaShoppingBasket className="searchSave__svgBasket" /> корзина
               </button></Link>

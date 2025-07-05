@@ -1,0 +1,24 @@
+.brads{
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    margin-bottom: 100px;
+}
+
+.brandText {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  color: #002c6a;
+}
+
+.sliderImagesBrands {
+  display: flex;
+  justify-content: space-between;
+
+  &__images {
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+  }
+}

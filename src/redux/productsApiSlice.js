@@ -5,7 +5,7 @@ export const fetchProducts = createAsyncThunk(
   'products/fetchProducts',
   async (_, thunkAPI) => {
     try {
-      const response = await fetch('http://127.0.0.1:5500/src/dataProducts.json')
+      const response = await fetch('http://127.0.0.1:5500/store/src/dataProducts.json')
       const data = await response.json()
 
       // 👇 Добавляем уникальный id каждому товару

@@ -1,5 +1,5 @@
 .blogFacts {
-    margin-bottom: 100px;
+  margin-bottom: 100px;
 }
 .blogFactsName {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -9,14 +9,14 @@
   color: #002c6a;
 }
 
-.blogFactsGrid{
-    margin-bottom: 50px;
-    display: flex
-;
-    justify-content: space-around;
+.blogFactsGrid {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
 }
 .blogCarts {
-    margin-top: 37px;
+  margin-top: 37px;
   display: flex;
   gap: 15px;
   max-width: 540px;
@@ -61,62 +61,62 @@
   }
 }
 .subscribe-form {
+  width: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+  border-radius: 16px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  box-sizing: border-box;
+
+  &__header {
+    background: linear-gradient(to bottom, #000, #333);
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 16px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    line-height: 1.4;
+  }
+
+  &__input {
     width: 100%;
-    max-width: 540px;
-    margin: 0 auto;
-    border-radius: 16px;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    box-sizing: border-box;
-  
-    &__header {
-      background: linear-gradient(to bottom, #000, #333);
-      color: #fff;
-      font-weight: bold;
-      font-size: 18px;
-      padding: 16px;
-      border-radius: 12px;
-      margin-bottom: 20px;
-      line-height: 1.4;
-    }
-  
-    &__input {
-      width: 100%;
-      padding: 12px;
-      font-size: 16px;
-      margin-bottom: 16px;
-      border: none;
-      border-bottom: 2px solid #ccc;
-      outline: none;
-      transition: border-color 0.3s;
-  
-      &:focus {
-        border-color: #000;
-      }
-    }
-  
-    &__button {
-      width: 100%;
-      padding: 12px;
-      background: linear-gradient(to right, #f22, #d00);
-      color: white;
-      font-size: 16px;
-      font-weight: bold;
-      border: none;
-      border-radius: 24px;
-      cursor: pointer;
-      transition: background 0.3s;
-  
-      &:hover {
-        background: linear-gradient(to right, #d00, #b00);
-      }
-    }
-  
-    &__privacy {
-      font-size: 12px;
-      color: #999;
-      margin-top: 12px;
+    padding: 12px;
+    font-size: 16px;
+    margin-bottom: 16px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+
+    &:focus {
+      border-color: #000;
     }
   }
+
+  &__button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(to right, #f22, #d00);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 24px;
+    cursor: pointer;
+    transition: background 0.3s;
+
+    &:hover {
+      background: linear-gradient(to right, #d00, #b00);
+    }
+  }
+
+  &__privacy {
+    font-size: 12px;
+    color: #999;
+    margin-top: 12px;
+  }
+}

@@ -5,6 +5,7 @@ import SliderSneakers from '../componentSliderSneakers/SliderSneakers'
 import SliderTheBeast from '../componentSliderTheBeast/SliderTheBeast'
 import Guarantee from '../guarantee/Guarantee'
 import BlogFacts from '../blogFacts/BlogFacts'
+import SliderBrand from '../componentSliderBrand/SliderBrand'
 
 
 export const MainBody = () => {
@@ -14,6 +15,7 @@ export const MainBody = () => {
         <SliderTheBeast/>
         <Guarantee/>
         <BlogFacts/>
+        <SliderBrand/>
     </div>
   )
 }
