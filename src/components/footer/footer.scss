@@ -1,4 +1,105 @@
-.foo{
-    margin: 0;
-    padding: 0;
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 40px 0px 40px;
+  background-color: #29292d;
+  &__logoStore {
+    padding: 40px 0px 40px 0px;
+  }
+
+  .footer {
+    &__connection {
+      display: flex;
+      flex-direction: column;
+      gap: 35px;
+    }
+  }
+  .connection {
+    &__webSite {
+      display: flex;
+      gap: 30px;
+    }
+
+    &__contact {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+  }
+  .webSite {
+    &__insta {
+      background: linear-gradient(70deg, #ffdd55, #ff543e, #c837ab);
+      border-radius: 6px;
+      width: 35px;
+      height: 35px;
+    }
+
+    &__vk {
+      width: 35px;
+      height: 35px;
+      color: #4d76a1;
+    }
+
+    &__whats {
+      width: 35px;
+      height: 35px;
+      color: #4caf50;
+    }
+  }
+  .contact {
+    &__phone {
+      font-weight: 400;
+      font-size: 18px;
+      color: #b3c0d2;
+    }
+
+    &__email {
+      font-weight: 400;
+      font-size: 18px;
+      color: #b3c0d2;
+    }
+
+    &__phoneSvg {
+      width: 20px;
+      height: 20px;
+      color: #b3c0d2;
+    }
+
+    &__emailSvg {
+      width: 20px;
+      height: 20px;
+      color: #b3c0d2;
+    }
+  }
+
+  &__informationStore {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    .info {
+      font-weight: 400;
+      font-size: 14px;
+      color: #b3c0d2;
+    }
+  }
+}
+.logoStore {
+  padding: 46px 0px 40px 0px;
+
+  &__logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__logoName {
+    color: #015aff;
+    font-size: 30px;
+    font-weight: 600;
+  }
 }
