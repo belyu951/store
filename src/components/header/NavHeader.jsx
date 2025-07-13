@@ -1,7 +1,7 @@
 import React from "react";
 
 //импорт routerDom
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 
 //импорт компонентов
 
@@ -69,11 +69,12 @@ const totalQuantity = useSelector(state =>
         </div>
 
         <div className="catalog">
-          <Link to='/SneakersCatalog' className="namee"><button className="catalog__catalogSearch name">Кроссовки</button></Link>
-          <Link to='/ClothCatalog' className="namee"><button className="catalog__catalogSearch name">Одежда</button></Link>
-          <Link to='/AccessoriesCatalog' className="namee"><button className="catalog__catalogSearch name">Аксессуары</button></Link>
-          <Link to='/Blog' className="namee"><button className="catalog__catalogSearch name">Блог</button></Link>
-          <Link to='/AboutUs' className="namee"><button className="catalog__catalogSearch name">О нас</button></Link>
+          <NavLink to='/SneakersCatalog' className={({ isActive }) => (isActive ? "nav-link activee" : "nav-link")}><button className="catalog__catalogSearch name">Кроссовки</button></NavLink>
+          <NavLink to='/ClothCatalog' className={({ isActive }) => (isActive ? "nav-link activee" : "nav-link")}><button className="catalog__catalogSearch name">Одежда</button></NavLink>
+          <NavLink to='/AccessoriesCatalog' className={({ isActive }) => (isActive ? "nav-link activee" : "nav-link")}><button className="catalog__catalogSearch name">Аксессуары</button></NavLink>
+          <NavLink to='/Blog' className={({ isActive }) => (isActive ? "nav-link activee" : "nav-link")}><button className="catalog__catalogSearch name">Блог</button></NavLink>
+          <NavLink to='/AboutUs' className={({ isActive }) => (isActive ? "nav-link activee" : "nav-link")}><button className="catalog__catalogSearch name">О нас</button></NavLink>
+          {/* <NavLink to='/AboutUs' className="namee"><button className="catalog__catalogSearch name">О нас</button></NavLink> */}
         </div>
       </div>
       </div>

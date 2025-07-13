@@ -1,4 +1,4 @@
-.searchNavHeader1{
+.searchNavHeader1 {
   position: fixed;
   top: 0;
   left: 40px;
@@ -35,11 +35,9 @@
   }
 }
 
-
-
-.quantity{
-position: relative;
-  &__quan{
+.quantity {
+  position: relative;
+  &__quan {
     position: absolute;
     margin-left: 37px;
     z-index: 1;
@@ -47,10 +45,9 @@ position: relative;
   }
 }
 
-.number{
+.number {
   margin-left: 52px;
 }
-
 
 .search {
   display: flex;
@@ -69,6 +66,7 @@ position: relative;
     font-weight: 600;
     color: #015aff;
     white-space: nowrap;
+    cursor: pointer;
   }
 
   // .searchCatalog__catalog
@@ -171,10 +169,20 @@ position: relative;
 
   &__svgBasket {
   }
-  
 }
-a{
+
+a {
+  all: unset;
   text-decoration: none;
   color: #000;
   border-radius: 10px;
+}
+
+.nav-link {
+
+}
+
+.nav-link.activee {
+  background-color: #005bff;
+  color: #fff;
 }

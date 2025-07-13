@@ -10,10 +10,10 @@ function Basket() {
   return (
     <> 
     <div className='paddingTop'>
-      {cartItems.map((productBasket)=>{
+      {cartItems.map((productBasket, idx)=>{
         return (
           <>
-          <p>Brand-{productBasket.brand} Name{productBasket.name} количество:{productBasket.quantity} размер:{productBasket.selectedSize} цена:{productBasket.price}</p>
+          <p key={idx}>Brand-{productBasket.brand} Name{productBasket.name} количество:{productBasket.quantity} размер:{productBasket.selectedSize} цена:{productBasket.price}</p>
 
           </>
         )

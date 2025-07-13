@@ -84,7 +84,6 @@ const ProductCard = ({ product, dispatch }) => {
     state.cart.items.reduce((sum, item) => sum + item.quantity, 0)
   )
 
-  console.log(totalQuantity > 9 ? '9+' : totalQuantity);
 
   const triggerAnimation = () => {
     setAnimate(true);
