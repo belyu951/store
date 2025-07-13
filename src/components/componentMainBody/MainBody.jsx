@@ -6,7 +6,7 @@ import SliderTheBeast from '../componentSliderTheBeast/SliderTheBeast'
 import Guarantee from '../guarantee/Guarantee'
 import BlogFacts from '../blogFacts/BlogFacts'
 import SliderBrand from '../componentSliderBrand/SliderBrand'
-import Footer from '../footer/Footer'
+// import Footer from '../footer/Footer'
 
 //импорт стилей
 
@@ -24,7 +24,7 @@ export const MainBody = () => {
         <SliderBrand/>
         
     </div>
-    <Footer/>
+    {/* <Footer/> */}
     </>
   )
 }

@@ -1,27 +1,27 @@
-import React, { useEffect, useState, useMemo } from 'react'
-import { useSelector, useDispatch } from 'react-redux'
-import { fetchProducts } from '../../../redux/productsApiSlice'
-import { addToCart } from '../../../redux/cartsSlice'
-import { faHeart } from '@fortawesome/free-solid-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import './sliderItem.scss'
+import React, { useEffect, useState, useMemo } from "react";
+import { useSelector, useDispatch } from "react-redux";
+import { fetchProducts } from "../../../redux/productsApiSlice";
+import { addToCart } from "../../../redux/cartsSlice";
+import { faHeart } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import "./sliderItem.scss";
 
 function SliderItem() {
-  const dispatch = useDispatch()
-  const { items, status, error } = useSelector(state => state.products)
+  const dispatch = useDispatch();
+  const { items, status, error } = useSelector((state) => state.products);
 
   useEffect(() => {
-    if (status === 'idle') {
-      dispatch(fetchProducts())
+    if (status === "idle") {
+      dispatch(fetchProducts());
     }
-  }, [dispatch, status])
+  }, [dispatch, status]);
 
   const randomProducts = useMemo(() => {
-    return [...items].sort(() => Math.random() - 0.5).slice(0, 4)
-  }, [items])
+    return [...items].sort(() => Math.random() - 0.5).slice(0, 4);
+  }, [items]);
 
-  if (status === 'loading') return <p>Загрузка...</p>
-  if (status === 'failed') return <p>Ошибка: {error}</p>
+  if (status === "loading") return <p>Загрузка...</p>;
+  if (status === "failed") return <p>Ошибка: {error}</p>;
 
   return (
     <>
@@ -29,64 +29,72 @@ function SliderItem() {
         <ProductCard key={index} product={product} dispatch={dispatch} />
       ))}
     </>
-  )
+  );
 }
 
 const ProductCard = ({ product, dispatch }) => {
-  const cartItems = useSelector(state => state.cart.items)
-  const [selectedSize, setSelectedSize] = useState(null)
-  const [sizeError, setSizeError] = useState('')
-  const [animate, setAnimate] = useState(false)
-  const [animateError, setAnimateError] = useState(false)
-
+  const cartItems = useSelector((state) => state.cart.items);
+  const [selectedSize, setSelectedSize] = useState(null);
+  const [sizeError, setSizeError] = useState("");
+  const [animate, setAnimate] = useState(false);
+  const [animateError, setAnimateError] = useState(false);
 
   const isUniversal =
-    typeof product.size === 'string' &&
-    (product.size.toLowerCase().includes('универс') || product.size.trim() === '')
+    typeof product.size === "string" &&
+    (product.size.toLowerCase().includes("универс") ||
+      product.size.trim() === "");
 
   const sizes = Array.isArray(product.size)
     ? (() => {
-        const sizeStart = product.size[0]
-        const sizeEnd = sizeStart + 5
-        return Array.from({ length: sizeEnd - sizeStart + 1 }, (_, i) => `${sizeStart + i} eur`)
+        const sizeStart = product.size[0];
+        const sizeEnd = sizeStart + 5;
+        return Array.from(
+          { length: sizeEnd - sizeStart + 1 },
+          (_, i) => `${sizeStart + i} eur`
+        );
       })()
-    : []
+    : [];
 
   // Проверяем, есть ли этот товар с выбранным размером уже в корзине
-  const isAddedToCart = cartItems.some(item =>
-    item.id === product.id &&
-    (
-      (isUniversal && item.selectedSize === 'универсальный') ||
-      (!isUniversal && item.selectedSize === selectedSize)
-    )
-  )
+  const isAddedToCart = cartItems.some(
+    (item) =>
+      item.id === product.id &&
+      ((isUniversal && item.selectedSize === "универсальный") ||
+        (!isUniversal && item.selectedSize === selectedSize))
+  );
 
   const handleAddToCart = () => {
     if (isUniversal) {
-      dispatch(addToCart({ ...product, selectedSize: 'универсальный' }))
-      setSizeError('')
-      triggerAnimation()
+      dispatch(addToCart({ ...product, selectedSize: "универсальный" }));
+      setSizeError("");
+      triggerAnimation();
     } else if (!selectedSize) {
-      triggerErrorAnimation()
-      setSizeError('Выберите размер')
+      triggerErrorAnimation();
+      setSizeError("Выберите размер");
     } else {
-      dispatch(addToCart({ ...product, selectedSize }))
-      setSizeError('')
-      triggerAnimation()
+      dispatch(addToCart({ ...product, selectedSize }));
+      setSizeError("");
+      triggerAnimation();
     }
-  }
+  };
+
+  
+
+  const totalQuantity = useSelector(state =>
+    state.cart.items.reduce((sum, item) => sum + item.quantity, 0)
+  )
+
+  console.log(totalQuantity > 9 ? '9+' : totalQuantity);
 
   const triggerAnimation = () => {
-    setAnimate(true)
-    setTimeout(() => setAnimate(false), 300) // сброс через 300 мс
-  }
+    setAnimate(true);
+    setTimeout(() => setAnimate(false), 300); // сброс через 300 мс
+  };
 
   const triggerErrorAnimation = () => {
-    setAnimateError(true)
-    setTimeout(() => setAnimateError(false), 300) // сброс через 300 мс
-  }
-
-
+    setAnimateError(true);
+    setTimeout(() => setAnimateError(false), 300); // сброс через 300 мс
+  };
 
   return (
     <div className="sliderItem" data-id={product.id}>
@@ -101,35 +109,43 @@ const ProductCard = ({ product, dispatch }) => {
       <div className="sliderItemNameSneakers">
         <div className="nameSneakersBrandImages">
           <span className="sliderItemNameSneakers__nameSneakers">
-            {product.name}<br />{product.brand}
+            {product.name}
+            <br />
+            {product.brand}
           </span>
-          <img className='nameSneakersBrandImages__brandLogo' src={product.brandLogo} alt="" />
+          <img
+            className="nameSneakersBrandImages__brandLogo"
+            src={product.brandLogo}
+            alt=""
+          />
         </div>
-        <span className="sliderItemNameSneakers__articleSneakers">артикул 19666</span>
+        <span className="sliderItemNameSneakers__articleSneakers">
+          артикул 19666
+        </span>
       </div>
 
       <div className="sliderItemPriceSneakers">
         <div className="sliderItemPriceSneakers__borderRadiusPrise">
-          <span className="sliderItemPriceSneakers__price">{product.price}</span>
+          <span className="sliderItemPriceSneakers__price">
+            {product.price}
+          </span>
         </div>
-        {sizeError && (
-          <span>{sizeError}</span>
-        )}
+        {sizeError && <span>{sizeError}</span>}
         <div
-          onClick={handleAddToCart}
+          onClick={totalQuantity < 10 ? handleAddToCart : null}
           className="sliderItemPriceSneakers__borderRadiusLikes"
-          
         >
           <FontAwesomeIcon
             className={`
             sliderItemPriceSneakers__svgLike like 
-            ${isAddedToCart ? 'liked' : ''} 
-            ${animate ? 'animate' : ''} 
-            ${animateError ? 'animateError' : ''}
+            ${isAddedToCart ? "liked" : ""} 
+            ${animate ? "animate" : ""} 
+            ${animateError ? "animateError" : ""}
           `}
-        
-
-            style={{ cursor: 'pointer', color: isAddedToCart ? 'red' : 'inherit' }}
+            style={{
+              cursor: "pointer",
+              color: isAddedToCart ? "red" : "inherit",
+            }}
             icon={faHeart}
           />
         </div>
@@ -144,9 +160,7 @@ const ProductCard = ({ product, dispatch }) => {
                 key={idx}
                 onClick={() => setSelectedSize(size)}
                 className={`sliderItemSizeSneakers__sizes sizesHover ${
-
-
-selectedSize === size ? 'selectedSize' : ''
+                  selectedSize === size ? "selectedSize" : ""
                 }`}
               >
                 {size}
@@ -156,7 +170,7 @@ selectedSize === size ? 'selectedSize' : ''
         </div>
       )}
     </div>
-  )
-}
+  );
+};
 
-export default SliderItem
+export default SliderItem;

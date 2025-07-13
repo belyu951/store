@@ -22,9 +22,10 @@ export default function NavHeader() {
 
 
 const totalQuantity = useSelector(state =>
-  state.cart.items.reduce((sum, item) => sum + item.quantity, 0)
+  state.cart.items.reduce((sum, item) => sum + item.quantity, null)
 )
 
+// console.log(totalQuantity > 9 ? '9+' : totalQuantity);
 
   return (
     <>
@@ -59,7 +60,7 @@ const totalQuantity = useSelector(state =>
               </button></Link>
             </div>
             <div className="quantity">
-              <span className="quantity__quan">{totalQuantity === 0 ? null : totalQuantity}</span>
+              <span className="quantity__quan">{totalQuantity > 9 ? '9+' : totalQuantity}</span>
               <Link to='/Basket'><button className="searchSave__basket">
                 <FaShoppingBasket className="searchSave__svgBasket" /> корзина
               </button></Link>

@@ -10,6 +10,7 @@ import ClothCatalog from './components/clothCatalog/ClothCatalog'
 import AccessoriesCatalog from './components/accessoriesCatalog/AccessoriesCatalog'
 import Blog from './components/blog/Blog'
 import AboutUs from './components/aboutUs/AboutUs'
+import Footer from './components/footer/Footer'
 
 import { Routes, Route } from 'react-router-dom';
 
@@ -23,7 +24,7 @@ function App() {
   return (
     <>
       <NavHeader/>
-
+      
       <Routes>
         <Route path='/' element={<MainBody/>}/>
         <Route path='/Basket' element={<Basket/>}/>
@@ -35,7 +36,8 @@ function App() {
         <Route path='/Blog' element={<Blog/>}/>
         <Route path='/AboutUs' element={<AboutUs/>}/>
       </Routes>
-      
+
+      <Footer/>
     </>
   );
 }
