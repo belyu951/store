@@ -11,6 +11,7 @@ import AccessoriesCatalog from './components/accessoriesCatalog/AccessoriesCatal
 import Blog from './components/blog/Blog'
 import AboutUs from './components/aboutUs/AboutUs'
 import Footer from './components/footer/Footer'
+import Products from './components/products/Products';
 
 import { Routes, Route } from 'react-router-dom';
 
@@ -35,6 +36,7 @@ function App() {
         <Route path='/AccessoriesCatalog' element={<AccessoriesCatalog/>}/>
         <Route path='/Blog' element={<Blog/>}/>
         <Route path='/AboutUs' element={<AboutUs/>}/>
+        <Route path='/Products/:id' element={<Products/>}/>
       </Routes>
 
       <Footer/>
